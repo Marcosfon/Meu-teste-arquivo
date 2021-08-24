@@ -11,7 +11,7 @@ public class Primeiroteste {
 		
 		System.out.println(segundoteste);
 		System.out.println(terceiroteste);
-		
+
 		/*int a = 2;
 		int b = 3;
 		int c = 6;
@@ -20,8 +20,7 @@ public class Primeiroteste {
 	}
 
 }
-
-	
+ 
 	
 class TerceiroTeste {
 	private String nome;
